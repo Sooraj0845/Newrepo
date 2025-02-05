@@ -1,4 +1,4 @@
 # Newrepo
 This is my first repo
 <br>
-Author-Suraj
+Author-Suraj Kumar
